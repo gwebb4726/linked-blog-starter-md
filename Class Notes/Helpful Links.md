@@ -1,0 +1,1 @@
+https://blog.adithyanak.com/oscp-preparation-guide/80-443/sql-injection
